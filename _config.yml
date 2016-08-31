@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://muffinmiester2.github.io
+title: muffinmiester2
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
